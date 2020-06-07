@@ -1,6 +1,8 @@
 Kröhnkite
 =========
 
+**Forked to try patching in BSP/Fibonacci modes, and automatically opening new desktops!**
+
 [![AUR-git](https://img.shields.io/aur/version/kwin-scripts-krohnkite-git.svg?label=AUR-git)](https://aur.archlinux.org/packages/kwin-scripts-krohnkite-git/)
 
 A dynamic tiling extension for KWin.
